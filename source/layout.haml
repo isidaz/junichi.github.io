@@ -9,8 +9,19 @@
     %link(rel='stylesheet' href='stylesheets/main.css')
   %body
     .container
-      #main{:role => "main"}
-        = yield
+      %header
+        %ul.nav
+          %li
+            %a{href: "/"} top
+          %li
+            %a{href: "/about/"} about
+          %li
+            %a{href: "/archives/"} archives
+          %li
+            %a{href: "/wiki/"} wiki
+          %li
+            %a{href: "/feed.xml"} feed
+      = yield
       %aside
         %h2 Recent Articles
         %ol
