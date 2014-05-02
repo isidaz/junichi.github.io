@@ -1,0 +1,18 @@
+---
+layout: post
+title: 日本語ドメインを取得
+published: true
+---
+
+IDNを試してみた。
+
+* [石田順一.jp](http://xn--4gq386gu1bpu5c.jp/)
+* Punycode : xn--4gq386gu1bpu5c.jp
+
+punycodeをzone fileおよびnginx.confに書けば動く。それだけ。
+punycodeはwebで変換してくれるサービスも有るし、portsにも有る。
+
+* pkg install idnkit2
+* idnconv zonefile
+
+あまりにもあっさり。
