@@ -2,17 +2,15 @@
 # Blog settings
 ###
 
-# Time.zone = "UTC"
+Time.zone = "Asia/Tokyo"
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
-  # blog.prefix = "blog"
+  blog.prefix = "blog"
 
-#  blog.permalink = "{year}/{month}/{day}/{title}.html"
   # Matcher for blog source files
-  blog.permalink = ":year-:month-:day-:title.html"
-#  blog.sources = "blog/:year-:month-:day-:title.md"
-  blog.sources = "blog/:title.html"
+  blog.permalink = "{year}/{month}/{day}/{title}/"
+  blog.sources = "{year}-{month}-{day}-{title}"
   # blog.taglink = "tags/{tag}.html"
   # blog.layout = "layout"
   # blog.summary_separator = /(READMORE)/
@@ -20,7 +18,7 @@ activate :blog do |blog|
   # blog.year_link = "{year}.html"
   # blog.month_link = "{year}/{month}.html"
   # blog.day_link = "{year}/{month}/{day}.html"
-  # blog.default_extension = ".markdown"
+  blog.default_extension = ".md"
 
   blog.tag_template = "tag.html"
   blog.calendar_template = "calendar.html"
