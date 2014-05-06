@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 1PasswordをApp Storeで買い直した。

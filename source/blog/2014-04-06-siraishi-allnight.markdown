@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "バチアタリ！白石晃士オールナイト"
 published: true
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 麺処 井の庄 つけ麺味玉入り

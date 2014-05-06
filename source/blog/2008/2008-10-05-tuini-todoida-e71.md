@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: ついに届いた。E71。

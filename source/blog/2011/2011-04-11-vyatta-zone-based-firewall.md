@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Vyatta Zone-Based Firewallを設定した。

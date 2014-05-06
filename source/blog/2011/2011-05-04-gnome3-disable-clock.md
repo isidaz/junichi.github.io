@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Gnome3の時計を非表示にする

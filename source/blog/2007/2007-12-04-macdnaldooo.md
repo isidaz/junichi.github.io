@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 不正「未然防止には限界」

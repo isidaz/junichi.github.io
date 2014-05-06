@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 新幹線の足跡

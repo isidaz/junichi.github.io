@@ -1,5 +1,4 @@
 ---
-layout: post
 title: マクドナルド店長訴訟
 date: 2008-01-28 14:36:00
 categories:

@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 今更、しかもNGN限定なんてひどいな

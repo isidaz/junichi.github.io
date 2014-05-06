@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: iPhone4のカメラで撮影､合宿にて｡

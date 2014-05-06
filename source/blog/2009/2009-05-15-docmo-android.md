@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 title: Docomo、Android正式発表へ
 date: 2009-05-15 23:33:47

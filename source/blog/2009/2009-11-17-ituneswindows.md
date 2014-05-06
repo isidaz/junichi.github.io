@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: iTunes、Windowsにおける文字化け

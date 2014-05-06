@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FreeBSDに寄付をした。
 date: 2013-11-26 21:34:00
 tags:

@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Webを徘徊していて苛つくこと

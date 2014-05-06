@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: IS01を購入してお客様サポートに新規登録するには

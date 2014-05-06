@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Google携帯電話用プラットフォーム「Android」

@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: テラ牛丼に見るアルバイト

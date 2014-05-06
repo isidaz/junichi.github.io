@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Softbankでニコニコ動画が見られるように。その裏で。

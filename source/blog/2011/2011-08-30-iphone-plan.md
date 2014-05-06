@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: iPhoneのプラン変更。2年契約(キャンペーン)更新月につき。

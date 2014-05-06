@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Vyatta 6.1 on Alix 2D3.

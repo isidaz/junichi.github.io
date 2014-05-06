@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 花粉にロラタジンのパッケージが変わった。

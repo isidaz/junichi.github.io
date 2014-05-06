@@ -1,5 +1,4 @@
 ---
-layout: post
 title: OS Xをzabbixの監視対象に
 date: 2013-02-03 09:59:27
 categories:

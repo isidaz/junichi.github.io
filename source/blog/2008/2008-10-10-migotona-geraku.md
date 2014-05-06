@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 見事な下落

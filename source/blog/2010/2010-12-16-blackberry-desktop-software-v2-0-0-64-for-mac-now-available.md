@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Mac向けBlackBerry Desktop Software v2.0.0.64が登場

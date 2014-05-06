@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Softbank一括設定での設定内容

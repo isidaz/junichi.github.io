@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 実家のネット環境が変わっていた。

@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: zlog on wine on Ubuntu 9.10.

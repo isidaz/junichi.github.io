@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Soralis 11のsambaにWindows 7から接続できな

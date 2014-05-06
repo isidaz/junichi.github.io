@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: iPhoneとその他大画面系スマートフォン

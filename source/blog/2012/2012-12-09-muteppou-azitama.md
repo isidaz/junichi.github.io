@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 無鉄砲 豚骨味玉

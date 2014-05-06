@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: iPhoneを買えない理由。

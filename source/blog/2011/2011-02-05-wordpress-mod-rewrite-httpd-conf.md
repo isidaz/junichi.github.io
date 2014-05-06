@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: WordPressのmod_rewriteをhttpd.confに書く。

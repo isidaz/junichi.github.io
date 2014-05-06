@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: ヱビス超長期熟成

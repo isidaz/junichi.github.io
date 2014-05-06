@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 当選のお知らせ。富士総合火力演習。

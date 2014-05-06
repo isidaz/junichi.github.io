@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 携帯から切り離したお財布ケータイ
