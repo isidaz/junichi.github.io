@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "bittorrent sync on FreeBSD"
 published: true
 ---

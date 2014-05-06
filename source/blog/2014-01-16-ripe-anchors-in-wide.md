@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "RIPE Atlas anchorがWIDEに設置されました"
 published: true
 ---

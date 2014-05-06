@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "AP9630をSmartUPSに装着した"
 published: true
 ---

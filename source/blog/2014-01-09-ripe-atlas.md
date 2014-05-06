@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "RIPE Atlasを設置"
 published: true
 ---
