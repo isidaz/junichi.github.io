@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta content='IE=edge;chrome=1' http-equiv='X-UA-Compatible'>
+    <title>
+      Blog Title - 日本語ドメインを取得
+    </title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+    <link href="/stylesheets/main.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class='container'>
+      <header>
+        <ul class='nav'>
+          <li>
+            <a href='/'>top</a>
+          </li>
+          <li>
+            <a href='/about.html'>about</a>
+          </li>
+          <li>
+            <a href='/archives.html'>archives</a>
+          </li>
+          <li>
+            <a href='/feed.xml'>feed</a>
+          </li>
+          <li>
+            <a href='/wiki/'>wiki</a>
+          </li>
+        </ul>
+      </header>
+      日本語ドメインを取得
+      <p>IDNを試してみた。</p>
+      
+      <ul>
+        <li><a href="http://xn--4gq386gu1bpu5c.jp/">石田順一.jp</a></li>
+        <li>Punycode : xn–4gq386gu1bpu5c.jp</li>
+      </ul>
+      
+      <p>punycodeをzone fileおよびnginx.confに書けば動く。それだけ。
+      punycodeはwebで変換してくれるサービスも有るし、portsにも有る。</p>
+      
+      <ul>
+        <li>pkg install idnkit2</li>
+        <li>idnconv zonefile</li>
+      </ul>
+      
+      <p>あまりにもあっさり。</p>
+    </div>
+  </body>
+</html>

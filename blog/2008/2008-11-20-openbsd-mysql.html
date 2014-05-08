@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta content='IE=edge;chrome=1' http-equiv='X-UA-Compatible'>
+    <title>
+      Blog Title
+    </title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+    <link href="/stylesheets/main.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class='container'>
+      <header>
+        <ul class='nav'>
+          <li>
+            <a href='/'>top</a>
+          </li>
+          <li>
+            <a href='/about.html'>about</a>
+          </li>
+          <li>
+            <a href='/archives.html'>archives</a>
+          </li>
+          <li>
+            <a href='/feed.xml'>feed</a>
+          </li>
+          <li>
+            <a href='/wiki/'>wiki</a>
+          </li>
+        </ul>
+      </header>
+      <p>MySQLをPHPで使おうと。まぁphpMyAdmin入れようとしたんだけどね。はじめソースをそのまま入れたんだがどうもうまくいってないなぁ、よしpkg_addしてみよう。同じエラーか。以下のように対処。</p>
+      <ul>
+      	<li>php.iniのsession.save_path = "/tmp"に。/var/www/tmp作成。</li>
+      	<li>my.cnfのmysql.sockの生成場所を/var/run/mysql/mysql.sockへと。pnp.iniの参照場所も変更。</li>
+      </ul>
+      <p>OpenBSDのApacheは/var/wwwにchrootされているため。この方法でいいのだろうか。</p>
+    </div>
+  </body>
+</html>

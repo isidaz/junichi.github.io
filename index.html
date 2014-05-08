@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta content='IE=edge;chrome=1' http-equiv='X-UA-Compatible'>
+    <title>
+      Blog Title
+    </title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+    <link href="/stylesheets/main.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class='container'>
+      <header>
+        <ul class='nav'>
+          <li>
+            <a href='/'>top</a>
+          </li>
+          <li>
+            <a href='/about.html'>about</a>
+          </li>
+          <li>
+            <a href='/archives.html'>archives</a>
+          </li>
+          <li>
+            <a href='/feed.xml'>feed</a>
+          </li>
+          <li>
+            <a href='/wiki/'>wiki</a>
+          </li>
+        </ul>
+      </header>
+      <h2>
+        <a href="/blog/2014/04/06/siraishi-allnight.html">バチアタリ！白石晃士オールナイト</a>
+      </h2>
+      <time>2014-04-06</time>
+      <span class='tags'>
+        映画
+        白石晃士
+        オールナイト
+      </span>
+      <p>オールナイト行ってきました。</p>
+      
+      <p>オカルト
+      超・悪人
+      殺人ワークショップ
+      暴力人間</p>
+      
+      <p>後半に行くほど退屈でした。トークで暴力人間を超えられていないと言っていたが
+      なんと答えようか。殺人ワークショップも暴力人間のような面白さが有るんだろう。
+      私は分からないが。</p>
+      <h2>
+        <a href="/blog/2014/03/30/bittorrent-sync-on-freebsd.html">bittorrent sync on FreeBSD</a>
+      </h2>
+      <time>2014-03-30</time>
+      <span class='tags'>
+      </span>
+      <p>まず回答してください。</p>
+      
+      <p>btsync
+      LICENSE.txt</p>
+      
+      <p>の2つのファイルが作成されます。ソースでの提供かと思ったら。</p>
+      
+      <p>./btsync –dump-sample-config</p>
+      <h2>
+        <a href="/blog/2014/01/16/ripe-anchors-in-wide.html">RIPE Atlas anchorがWIDEに設置されました</a>
+      </h2>
+      <time>2014-01-16</time>
+      <span class='tags'>
+      </span>
+      <p>RIPE Atlas anchorsがWIDE(AS2500)に設置されたそうです。日本初のahchorですね。
+      WIDEからの発表は無いのかな？</p>
+      
+      <ul>
+        <li><a title="Twitter / RIPE_Atlas: We welcome new #RIPEAtlas anchor, ..." href="https://twitter.com/RIPE_Atlas/status/422673222841012224">Twitter / RIPE_Atlas: We welcome new #RIPEAtlas anchor, …</a></li>
+        <li><a title="RIPE Atlas Anchors - RIPE Atlas — RIPE Network Coordination Centre" href="https://atlas.ripe.net/anchors/list/">RIPE Atlas Anchors - RIPE Atlas — RIPE Network Coordination Centre</a></li>
+        <li>jp-tyo-as2500.anchors.atlas.ripe.net</li>
+      </ul>
+      
+      <p>私も先日probeを設置しましたが、こちらは親玉と言ったところでしょうか。</p>
+      <h2>
+        <a href="/blog/2014/01/11/hbstudy53.html">hbstudy 53に参加</a>
+      </h2>
+      <time>2014-01-11</time>
+      <span class='tags'>
+      </span>
+      <p>分散ストレージ、S3互換に引かれてhbstudy53に参加してきました。S3cmd使ったのが初
+      めてなので良い経験となりました。自宅でも構築してみたいですが3ノード準備するのが
+      手間ですね。1台のサーバにノードを同居させることも可能みたいですが。</p>
+      
+      <p>以下メモ。</p>
+      
+      <h2 id="sucedule">sucedule</h2>
+      
+      <ul>
+        <li>分散ストレージ構築　苦労話</li>
+        <li>ハンズオン</li>
+        <li>bashoの方のお話</li>
+      </ul>
+      
+      <h2 id="section">苦労苦労話</h2>
+      
+      <ul>
+        <li>riak   kvs</li>
+        <li>riakcs  ストレージ</li>
+        <li>3つのノードに書く</li>
+        <li>バケットとハッシュ値をもとに書き込むサーバを決めてる</li>
+        <li>1台故障しても大丈夫</li>
+        <li>2個壊れるとめんい？？？</li>
+        <li>書き込みのときも2台壊れて大丈夫</li>
+        <li>handoffという機能</li>
+        <li>サーバ復旧後、本来の位置に書き込む</li>
+        <li>スケールアウトのためにサーバ追加すると自動で配置、もちろん無停止</li>
+        <li>データの自動復旧 active anti-entropy</li>
+        <li>
+          <p>raidのscrubのような機能</p>
+        </li>
+        <li>riak cs</li>
+        <li>riak上で動作するアプリケーション</li>
+        <li>
+          <p>riak csがデータを分割し(1mb)、riakへ書き込む</p>
+        </li>
+        <li>待たされるとき</li>
+        <li>10tbの負荷試験</li>
+        <li>障害試験</li>
+        <li>
+          <p>ローリングアップデート</p>
+        </li>
+        <li>分からないとき</li>
+        <li>ログを読むとき</li>
+        <li>syslogに対応していない</li>
+        <li>データの再配置</li>
+        <li>どのノートにデータが有るか不明</li>
+        <li>
+          <p>しかも分割されている</p>
+        </li>
+        <li>riak clusterの周りのシステム</li>
+        <li>chefでriakのノードを自動構築</li>
+        <li>zabbixで監視</li>
+        <li>gangliaで性能データの収集、nagiosへ集約、通知</li>
+        <li>logstash -&gt; statsd -&gt; graphite</li>
+        <li>
+          <p>elasticsearch -&gt; kibana</p>
+        </li>
+        <li>chef</li>
+        <li>raid 0で構築しているのでOSが壊れる前提</li>
+        <li>手順の共有のためにも</li>
+        <li>
+          <p>gitlabにコードをupしレビューしている</p>
+        </li>
+        <li>gangliaによる性能監視</li>
+        <li>pythonで拡張し、riakについても監視</li>
+        <li>
+          <p>コミュニティーにあるコードを使った</p>
+        </li>
+        <li>nagios連携</li>
+        <li>1、2番目くらいに苦労した</li>
+        <li>nagiosがgangliaに繁盛にアクセスするためgangliaがカフカに</li>
+        <li>
+          <p>rrdtoolがioを大量に発生-&gt; メモリへ</p>
+        </li>
+        <li>logstash</li>
+        <li>ログも分散しているので</li>
+        <li>諸事情によりfluentdでは無い</li>
+        <li>
+          <p>pythonなので他のシステムと連携しやすい、他のシステムでつかってるとな</p>
+        </li>
+        <li>elasticsearch</li>
+        <li>スケールアウトする検索エンジン</li>
+        <li>web uiとしてkibana</li>
+        <li>
+          <p>開発母体が一緒</p>
+        </li>
+        <li>分散システム管理の課題</li>
+        <li>手順書からコードへ</li>
+        <li>
+          <p>管理システムのスケールアウト</p>
+        </li>
+        <li>hyper-vリプリか</li>
+        <li>管理スステムのdr</li>
+        <li>hyper-v上のcentosで管理システムが稼働している</li>
+        <li>
+          <p>東京と北九州間でレプリカしてる</p>
+        </li>
+        <li>mdcについては検討中</li>
+        <li>awsのiamのような、</li>
+        <li>cloud berry、windowsで動くバックアップソフト</li>
+        <li>グループアカウント</li>
+      </ul>
+      
+      <h2 id="section-1">ハンズオン</h2>
+      
+      <ul>
+        <li>1/15まで使えるよ。</li>
+        <li>riakはこの場限りですが。。。</li>
+      </ul>
+      
+      <h2 id="basho-japan">basho japanより篠原さん</h2>
+      
+      <ul>
+        <li>memcached</li>
+        <li>redis</li>
+        <li>casandra</li>
+        <li>
+          <p>riak</p>
+        </li>
+        <li>データをなくさない</li>
+        <li>何時でも読み書き可能</li>
+        <li>
+          <p>運用が楽</p>
+        </li>
+        <li>
+          <p>riakソースコードリーディング</p>
+        </li>
+        <li>
+          <p>riack ring</p>
+        </li>
+        <li>acidを捨てているのでアプリケーション側が難しくなる</li>
+        <li>vector clocks　論理時計</li>
+      </ul>
+      <h2>
+        <a href="/blog/2014/01/09/ripe-atlas.html">RIPE Atlasを設置</a>
+      </h2>
+      <time>2014-01-09</time>
+      <span class='tags'>
+      </span>
+      <p>年末に申し込んだRIPE Atlasが届きました。RIPE Atlasはネットワークのセンサーと言った所でしょうか。日本語の情報は2件しか見つかりませんでした。RIPEのwebを見る限りもっと日本にも有るようですが。</p>
+      
+      <table>
+        <tbody>
+          <tr>
+            <td>[Try and Error</td>
+            <td>RIPE Atlasを導入してみた](http://www.ipnet-lab.jp/post/2013/11/09/ripe-atlas.aspx "Try and Error</td>
+            <td>RIPE Atlasを導入してみた")</td>
+          </tr>
+        </tbody>
+      </table>
+      
+      <p><a href="http://enog.jp/wp-content/uploads/2012/07/ENOG15_RIPE_Atlas.pdf">RIPE Atlasについて</a></p>
+      
+      <iframe src="http://www.flickr.com/photos/jun_/11853615855/player/" width="500" height="333" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+      
+      <p>こんな感じに設置。My RIPE Atlas.</p>
+      
+      <iframe src="http://www.flickr.com/photos/jun_/11854835226/player/" width="500" height="333" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+      <aside>
+        <h2>Recent Articles</h2>
+        <ol>
+          <li>
+            <a href="/blog/2014/04/06/siraishi-allnight.html">バチアタリ！白石晃士オールナイト</a>
+            <span>Apr  6</span>
+          </li>
+          <li>
+            <a href="/blog/2014/03/30/bittorrent-sync-on-freebsd.html">bittorrent sync on FreeBSD</a>
+            <span>Mar 30</span>
+          </li>
+          <li>
+            <a href="/blog/2014/01/16/ripe-anchors-in-wide.html">RIPE Atlas anchorがWIDEに設置されました</a>
+            <span>Jan 16</span>
+          </li>
+          <li>
+            <a href="/blog/2014/01/11/hbstudy53.html">hbstudy 53に参加</a>
+            <span>Jan 11</span>
+          </li>
+          <li>
+            <a href="/blog/2014/01/09/ripe-atlas.html">RIPE Atlasを設置</a>
+            <span>Jan  9</span>
+          </li>
+          <li>
+            <a href="/blog/2014/01/05/diary.html">パソコンファームでパソコンを処分</a>
+            <span>Jan  5</span>
+          </li>
+          <li>
+            <a href="/blog/2014/01/04/diary.html">日記</a>
+            <span>Jan  4</span>
+          </li>
+          <li>
+            <a href="/blog/2014/01/03/p-touch-2430pc.html">P-touch 2430PCを購入</a>
+            <span>Jan  3</span>
+          </li>
+          <li>
+            <a href="/blog/2014/01/02/idn.html">日本語ドメインを取得</a>
+            <span>Jan  2</span>
+          </li>
+          <li>
+            <a href="/blog/2014/01/01/2014.html">2014年について</a>
+            <span>Jan  1</span>
+          </li>
+        </ol>
+      </aside>
+    </div>
+  </body>
+</html>

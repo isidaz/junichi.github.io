@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2014-04-06T00:00:00+09:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>バチアタリ！白石晃士オールナイト</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2014/04/06/siraishi-allnight.html"/>
+    <id>http://blog.url.com/blog/2014/04/06/siraishi-allnight.html</id>
+    <published>2014-04-06T00:00:00+09:00</published>
+    <updated>2014-05-08T23:50:50+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;オールナイト行ってきました。&lt;/p&gt;
+
+&lt;p&gt;オカルト
+超・悪人
+殺人ワークショップ
+暴力人間&lt;/p&gt;
+
+&lt;p&gt;後半に行くほど退屈でした。トークで暴力人間を超えられていないと言っていたが
+なんと答えようか。殺人ワークショップも暴力人間のような面白さが有るんだろう。
+私は分からないが。&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>bittorrent sync on FreeBSD</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2014/03/30/bittorrent-sync-on-freebsd.html"/>
+    <id>http://blog.url.com/blog/2014/03/30/bittorrent-sync-on-freebsd.html</id>
+    <published>2014-03-30T00:00:00+09:00</published>
+    <updated>2014-05-08T23:50:50+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;まず回答してください。&lt;/p&gt;
+
+&lt;p&gt;btsync
+LICENSE.txt&lt;/p&gt;
+
+&lt;p&gt;の2つのファイルが作成されます。ソースでの提供かと思ったら。&lt;/p&gt;
+
+&lt;p&gt;./btsync –dump-sample-config&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>RIPE Atlas anchorがWIDEに設置されました</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2014/01/16/ripe-anchors-in-wide.html"/>
+    <id>http://blog.url.com/blog/2014/01/16/ripe-anchors-in-wide.html</id>
+    <published>2014-01-16T00:00:00+09:00</published>
+    <updated>2014-05-08T23:50:50+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;RIPE Atlas anchorsがWIDE(AS2500)に設置されたそうです。日本初のahchorですね。
+WIDEからの発表は無いのかな？&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a title="Twitter / RIPE_Atlas: We welcome new #RIPEAtlas anchor, ..." href="https://twitter.com/RIPE_Atlas/status/422673222841012224"&gt;Twitter / RIPE_Atlas: We welcome new #RIPEAtlas anchor, …&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a title="RIPE Atlas Anchors - RIPE Atlas — RIPE Network Coordination Centre" href="https://atlas.ripe.net/anchors/list/"&gt;RIPE Atlas Anchors - RIPE Atlas — RIPE Network Coordination Centre&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;jp-tyo-as2500.anchors.atlas.ripe.net&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;私も先日probeを設置しましたが、こちらは親玉と言ったところでしょうか。&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>hbstudy 53に参加</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2014/01/11/hbstudy53.html"/>
+    <id>http://blog.url.com/blog/2014/01/11/hbstudy53.html</id>
+    <published>2014-01-11T00:00:00+09:00</published>
+    <updated>2014-05-08T23:50:50+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;分散ストレージ、S3互換に引かれてhbstudy53に参加してきました。S3cmd使ったのが初
+めてなので良い経験となりました。自宅でも構築してみたいですが3ノード準備するのが
+手間ですね。1台のサーバにノードを同居させることも可能みたいですが。&lt;/p&gt;
+
+&lt;p&gt;以下メモ。&lt;/p&gt;
+
+&lt;h2 id="sucedule"&gt;sucedule&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;分散ストレージ構築　苦労話&lt;/li&gt;
+  &lt;li&gt;ハンズオン&lt;/li&gt;
+  &lt;li&gt;bashoの方のお話&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="section"&gt;苦労苦労話&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;riak   kvs&lt;/li&gt;
+  &lt;li&gt;riakcs  ストレージ&lt;/li&gt;
+  &lt;li&gt;3つのノードに書く&lt;/li&gt;
+  &lt;li&gt;バケットとハッシュ値をもとに書き込むサーバを決めてる&lt;/li&gt;
+  &lt;li&gt;1台故障しても大丈夫&lt;/li&gt;
+  &lt;li&gt;2個壊れるとめんい？？？&lt;/li&gt;
+  &lt;li&gt;書き込みのときも2台壊れて大丈夫&lt;/li&gt;
+  &lt;li&gt;handoffという機能&lt;/li&gt;
+  &lt;li&gt;サーバ復旧後、本来の位置に書き込む&lt;/li&gt;
+  &lt;li&gt;スケールアウトのためにサーバ追加すると自動で配置、もちろん無停止&lt;/li&gt;
+  &lt;li&gt;データの自動復旧 active anti-entropy&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;raidのscrubのような機能&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;riak cs&lt;/li&gt;
+  &lt;li&gt;riak上で動作するアプリケーション&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;riak csがデータを分割し(1mb)、riakへ書き込む&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;待たされるとき&lt;/li&gt;
+  &lt;li&gt;10tbの負荷試験&lt;/li&gt;
+  &lt;li&gt;障害試験&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ローリングアップデート&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;分からないとき&lt;/li&gt;
+  &lt;li&gt;ログを読むとき&lt;/li&gt;
+  &lt;li&gt;syslogに対応していない&lt;/li&gt;
+  &lt;li&gt;データの再配置&lt;/li&gt;
+  &lt;li&gt;どのノートにデータが有るか不明&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;しかも分割されている&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;riak clusterの周りのシステム&lt;/li&gt;
+  &lt;li&gt;chefでriakのノードを自動構築&lt;/li&gt;
+  &lt;li&gt;zabbixで監視&lt;/li&gt;
+  &lt;li&gt;gangliaで性能データの収集、nagiosへ集約、通知&lt;/li&gt;
+  &lt;li&gt;logstash -&amp;gt; statsd -&amp;gt; graphite&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;elasticsearch -&amp;gt; kibana&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;chef&lt;/li&gt;
+  &lt;li&gt;raid 0で構築しているのでOSが壊れる前提&lt;/li&gt;
+  &lt;li&gt;手順の共有のためにも&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;gitlabにコードをupしレビューしている&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;gangliaによる性能監視&lt;/li&gt;
+  &lt;li&gt;pythonで拡張し、riakについても監視&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;コミュニティーにあるコードを使った&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;nagios連携&lt;/li&gt;
+  &lt;li&gt;1、2番目くらいに苦労した&lt;/li&gt;
+  &lt;li&gt;nagiosがgangliaに繁盛にアクセスするためgangliaがカフカに&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;rrdtoolがioを大量に発生-&amp;gt; メモリへ&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;logstash&lt;/li&gt;
+  &lt;li&gt;ログも分散しているので&lt;/li&gt;
+  &lt;li&gt;諸事情によりfluentdでは無い&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;pythonなので他のシステムと連携しやすい、他のシステムでつかってるとな&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;elasticsearch&lt;/li&gt;
+  &lt;li&gt;スケールアウトする検索エンジン&lt;/li&gt;
+  &lt;li&gt;web uiとしてkibana&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;開発母体が一緒&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;分散システム管理の課題&lt;/li&gt;
+  &lt;li&gt;手順書からコードへ&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;管理システムのスケールアウト&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;hyper-vリプリか&lt;/li&gt;
+  &lt;li&gt;管理スステムのdr&lt;/li&gt;
+  &lt;li&gt;hyper-v上のcentosで管理システムが稼働している&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;東京と北九州間でレプリカしてる&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;mdcについては検討中&lt;/li&gt;
+  &lt;li&gt;awsのiamのような、&lt;/li&gt;
+  &lt;li&gt;cloud berry、windowsで動くバックアップソフト&lt;/li&gt;
+  &lt;li&gt;グループアカウント&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="section-1"&gt;ハンズオン&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1/15まで使えるよ。&lt;/li&gt;
+  &lt;li&gt;riakはこの場限りですが。。。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="basho-japan"&gt;basho japanより篠原さん&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;memcached&lt;/li&gt;
+  &lt;li&gt;redis&lt;/li&gt;
+  &lt;li&gt;casandra&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;riak&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;データをなくさない&lt;/li&gt;
+  &lt;li&gt;何時でも読み書き可能&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;運用が楽&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;riakソースコードリーディング&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;riack ring&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;acidを捨てているのでアプリケーション側が難しくなる&lt;/li&gt;
+  &lt;li&gt;vector clocks　論理時計&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>RIPE Atlasを設置</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2014/01/09/ripe-atlas.html"/>
+    <id>http://blog.url.com/blog/2014/01/09/ripe-atlas.html</id>
+    <published>2014-01-09T00:00:00+09:00</published>
+    <updated>2014-05-08T23:50:50+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;年末に申し込んだRIPE Atlasが届きました。RIPE Atlasはネットワークのセンサーと言った所でしょうか。日本語の情報は2件しか見つかりませんでした。RIPEのwebを見る限りもっと日本にも有るようですが。&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;[Try and Error&lt;/td&gt;
+      &lt;td&gt;RIPE Atlasを導入してみた](http://www.ipnet-lab.jp/post/2013/11/09/ripe-atlas.aspx "Try and Error&lt;/td&gt;
+      &lt;td&gt;RIPE Atlasを導入してみた")&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href="http://enog.jp/wp-content/uploads/2012/07/ENOG15_RIPE_Atlas.pdf"&gt;RIPE Atlasについて&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src="http://www.flickr.com/photos/jun_/11853615855/player/" width="500" height="333" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;こんな感じに設置。My RIPE Atlas.&lt;/p&gt;
+
+&lt;iframe src="http://www.flickr.com/photos/jun_/11854835226/player/" width="500" height="333" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""&gt;&lt;/iframe&gt;
+</content>
+  </entry>
+  <entry>
+    <title>パソコンファームでパソコンを処分</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2014/01/05/diary.html"/>
+    <id>http://blog.url.com/blog/2014/01/05/diary.html</id>
+    <published>2014-01-05T00:00:00+09:00</published>
+    <updated>2014-05-08T23:50:50+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;a title="パソコン処分、パソコン廃棄、パソコン回収、データ消去を無料で行うパソコンファーム" href="http://www.highbridge-computer.jp/recycle/"&gt;パソコン処分、パソコン廃棄、パソコン回収、データ消去を無料で行うパソコンファーム&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3個に分けて発送した。送料5000円だった。少しすっきり。1月中に物を減らそう。&lt;/p&gt;
+</content>
+  </entry>
+</feed>

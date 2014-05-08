@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta content='IE=edge;chrome=1' http-equiv='X-UA-Compatible'>
+    <title>
+      Blog Title
+    </title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+    <link href="/stylesheets/main.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class='container'>
+      <header>
+        <ul class='nav'>
+          <li>
+            <a href='/'>top</a>
+          </li>
+          <li>
+            <a href='/about.html'>about</a>
+          </li>
+          <li>
+            <a href='/archives.html'>archives</a>
+          </li>
+          <li>
+            <a href='/feed.xml'>feed</a>
+          </li>
+          <li>
+            <a href='/wiki/'>wiki</a>
+          </li>
+        </ul>
+      </header>
+      <p>ど真ん中に時刻が表示されて気になるので非表示にしました。</p>
+      <blockquote>--- /usr/share/gnome-shell/js/ui/panel.js 2011-05-03 14:50:55.169821856 +0900
+      +++ /usr/share/gnome-shell/js/ui/panel.js_ 2011-05-03 14:55:52.213983414 +0900
+      @@ -18,7 +18,7 @@
+      const PopupMenu = imports.ui.popupMenu;
+      const PanelMenu = imports.ui.panelMenu;
+      const StatusMenu = imports.ui.statusMenu;
+      -//const DateMenu = imports.ui.dateMenu;
+      +const DateMenu = imports.ui.dateMenu;
+      const Main = imports.ui.main;
+      const Tweener = imports.ui.tweener;
+      
+      @@ -938,9 +938,9 @@
+      this._menus.addMenu(appMenuButton.menu);
+      
+      /* center */
+      - //this._dateMenu = new DateMenu.DateMenuButton();
+      - //this._centerBox.add(this._dateMenu.actor, { y_fill: true });
+      - //this._menus.addMenu(this._dateMenu.menu);
+      + this._dateMenu = new DateMenu.DateMenuButton();
+      + this._centerBox.add(this._dateMenu.actor, { y_fill: true });
+      + this._menus.addMenu(this._dateMenu.menu);
+      
+      /* right */</blockquote>
+    </div>
+  </body>
+</html>

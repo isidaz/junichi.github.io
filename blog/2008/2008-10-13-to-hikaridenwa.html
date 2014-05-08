@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta content='IE=edge;chrome=1' http-equiv='X-UA-Compatible'>
+    <title>
+      Blog Title
+    </title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+    <link href="/stylesheets/main.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class='container'>
+      <header>
+        <ul class='nav'>
+          <li>
+            <a href='/'>top</a>
+          </li>
+          <li>
+            <a href='/about.html'>about</a>
+          </li>
+          <li>
+            <a href='/archives.html'>archives</a>
+          </li>
+          <li>
+            <a href='/feed.xml'>feed</a>
+          </li>
+          <li>
+            <a href='/wiki/'>wiki</a>
+          </li>
+        </ul>
+      </header>
+      <p>試したくなって申し込んだ。来週中には開通。Astriskをしこんでやる予定。</p>
+      
+      <p>ひかり電話は接続時に1セッション必要になるらしい。つながってしまえばそのセッションは必要なくなるが。現在2セッション使っているため設定のたび1セッション切断するのもめんどうだしーということでセッションプラス。</p>
+      
+      <p>久しぶりにフレッツスクウェアなんかに接続。RT57iに設定してみる。ルーティングの書き換え。最新情報は下記の通り。<a href="http://www.flets.com/square/routing.html">http://www.flets.com/square/routing.html</a>より。</p>
+      <blockquote>220.210.194.0/25
+      220.210.194.160/27
+      220.210.199.192/27
+      220.210.196.0/25
+      220.210.196.128/26
+      220.210.198.0/26
+      220.210.199.144/28
+      220.210.199.208/28</blockquote>
+      <p>んでもってRT57i用。</p>
+      <blockquote>ip route default gateway pp 1
+      ip route 220.210.194.0/25 gateway pp 2
+      ip route 220.210.194.160/27 gateway pp 2
+      ip route 220.210.199.192/27 gateway pp 2
+      ip route 220.210.196.0/25 gateway pp 2
+      ip route 220.210.196.128/26 gateway pp 2
+      ip route 220.210.198.0/26 gateway pp 2
+      ip route 220.210.199.144/28 gateway pp 2
+      ip route 220.210.199.208/28 gateway pp 2
+      dns server select 1 pp 2 any .flets
+      dns server select 2 pp 1 any .
+      clear dns cache</blockquote>
+      <p>申し込み。3時くらいに開通。</p>
+    </div>
+  </body>
+</html>

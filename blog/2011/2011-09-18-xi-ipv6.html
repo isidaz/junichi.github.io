@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta content='IE=edge;chrome=1' http-equiv='X-UA-Compatible'>
+    <title>
+      Blog Title
+    </title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+    <link href="/stylesheets/main.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class='container'>
+      <header>
+        <ul class='nav'>
+          <li>
+            <a href='/'>top</a>
+          </li>
+          <li>
+            <a href='/about.html'>about</a>
+          </li>
+          <li>
+            <a href='/archives.html'>archives</a>
+          </li>
+          <li>
+            <a href='/feed.xml'>feed</a>
+          </li>
+          <li>
+            <a href='/wiki/'>wiki</a>
+          </li>
+        </ul>
+      </header>
+      <p>Xiを契約してきた。端末はL-02C。自宅はまだLTEのエリアでなかったことに気づいたのは購入後。まぁdocomoのデータ契約が欲しかったので良いけれども。</p>
+      
+      <table>
+        <tbody>
+          <tr>
+            <td>IPv6はL-02C接続ソフトを利用すれば、非常に簡単。<a href="http://www.mopera.net/manual/pcpda/option/service/index.html">設定方法</a></td>
+            <td>mopera U</td>
+            <td>NTTドコモ&lt;/a&gt;にある設定方法に従えばよい。mopera.netからIPv6接続を有効に、接続プロファイルでIPv6を選択するだけ。</td>
+          </tr>
+        </tbody>
+      </table>
+      
+      <p><a href="http://www.i4d.jp/blog/2011/09/xi-ipv6/system-preferences/" rel="attachment wp-att-676"><img class="aligncenter size-full wp-image-676" title="System Preferences" src="http://www.i4d.jp/blog/wp-content/uploads/2011/09/System-Preferences.png" alt="" /></a><a href="http://www.i4d.jp/blog/2011/09/xi-ipv6/network_preferences-2/" rel="attachment wp-att-675">
+      </a>/64が降ってくる。デフォルトゲートはリンクローカルアドレス。DNSサーバはIPv4しか降ってこないため、IPv6オンリー設定にすると使い物にならなくなる。</p>
+      
+      <p>以下、traceroute6してみた。</p>
+      
+      <p>[Text]</p>
+      
+      <p>jun@air[~]$ traceroute6 ipv6.google.comtraceroute6 to ipv6.l.google.com (2404:6800:8001::63) from 240a::267:53:51ae:7b84:e4f6:894f, 64 hops max, 12 byte packets
+      1 240a:0:200:f0d::2e03:1 85.447 ms 85.521 ms 88.166 ms
+      2 240a:0:200:b2c::200b:1 93.720 ms 87.710 ms 89.947 ms
+      3 240a:0:200:107::2007:1 87.897 ms 89.807 ms 87.685 ms
+      4 240a:0:200:104::2001:1 92.003 ms 85.771 ms 89.968 ms
+      5 240a:0:200:100::1 90.114 ms 85.555 ms 89.796 ms
+      6 2001:240:bb5c:100a::edfa 90.189 ms 95.554 ms 88.133 ms
+      7 tky009bb11.iij.net 89.796 ms 149.683 ms 85.979 ms
+      8 tky009bf01.iij.net 90.068 ms 95.883 ms 87.826 ms
+      9 tky001ix05.iij.net 92.019 ms 89.860 ms 91.935 ms
+      10 2001:4860:1:1::9c1:0:2 89.870 ms 87.873 ms 89.750 ms
+      11 2001:4860::1:0:165 89.894 ms
+      2001:4860::1:0:298 91.849 ms
+      2001:4860::1:0:165 157.791 ms
+      12 2001:4860::1:0:75 160.537 ms
+      2001:4860::1:0:47 179.855 ms 89.718 ms
+      13 2001:4860::1:0:890 117.751 ms
+      2001:4860::1:0:794 123.771 ms
+      2001:4860::1:0:890 125.545 ms
+      14 2001:4860::2:0:c6 122.257 ms 127.960 ms 127.844 ms
+      15 2001:4860:0:1::49 132.095 ms 127.482 ms 126.119 ms
+      16 2404:6800:8001::63 119.772 ms 121.750 ms 117.817 ms
+      [/Text]</p>
+    </div>
+  </body>
+</html>
