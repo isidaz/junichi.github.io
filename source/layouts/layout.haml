@@ -1,0 +1,24 @@
+!!!
+%html
+  %head
+    %meta{:charset => "utf-8"}/
+    %meta{:content => "IE=edge;chrome=1", "http-equiv" => "X-UA-Compatible"}/
+    %title
+      Blog Title#{' - ' + current_article.title unless current_article.nil?}
+    = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
+    = stylesheet_link_tag "main"
+  %body
+    .container
+      %header
+        %ul.nav
+          %li
+            %a{href: "/"} top
+          %li
+            %a{href: "/about.html"} about
+          %li
+            %a{href: "/archives.html"} archives
+          %li
+            %a{href: "/feed.xml"} feed
+          %li
+            %a{href: "/wiki/"} wiki
+      = yield

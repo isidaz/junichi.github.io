@@ -9,10 +9,10 @@ activate :blog do |blog|
   blog.prefix = "blog"
 
   # Matcher for blog source files
-  blog.permalink = "{year}/{month}/{day}/{title}/"
+  blog.permalink = "{year}/{month}/{day}/{title}"
   blog.sources = "{year}-{month}-{day}-{title}"
   # blog.taglink = "tags/{tag}.html"
-  # blog.layout = "layout"
+  blog.layout = "post"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
   # blog.year_link = "{year}.html"
@@ -29,6 +29,7 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+#page "blog/*", :layout => :post
 page "/feed.xml", layout: false
 
 ###
@@ -69,7 +70,7 @@ page "/feed.xml", layout: false
 # activate :automatic_image_sizes
 
 # Reload the browser automatically whenever files change
-# activate :livereload
+activate :livereload
 
 # Methods defined in the helpers block are available in templates
 # helpers do
@@ -83,6 +84,8 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
+
+#set :layouts_dir, 'layouts'
 
 # Build-specific configuration
 configure :build do
