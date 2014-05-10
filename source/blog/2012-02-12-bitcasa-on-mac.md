@@ -1,7 +1,7 @@
 ---
 status: publish
 published: true
-title: 
+title: MacでBitcasaを使ってみた。
 date: 2012-02-12 20:14:41 JST
 categories:
 - Mac OS X

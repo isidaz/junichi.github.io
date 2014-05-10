@@ -1,7 +1,7 @@
 ---
 status: publish
 published: true
-title: 
+title: ヱビス ザ・ホップ発売
 date: 2012-04-03 21:04:19 JST
 categories:
 - beer

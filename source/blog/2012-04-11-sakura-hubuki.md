@@ -1,7 +1,7 @@
 ---
 status: publish
 published: true
-title: 
+title: 桜吹雪。
 date: 2012-04-11 20:44:42 JST
 categories:
 - diary
