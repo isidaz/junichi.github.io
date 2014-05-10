@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 東栄温泉
-date: 2008-08-17 20:53:49
+date: 2008-08-17 20:53:49 JST
 categories:
 - diary
 ---

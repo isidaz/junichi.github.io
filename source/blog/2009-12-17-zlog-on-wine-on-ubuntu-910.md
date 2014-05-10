@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: zlog on wine on Ubuntu 9.10.
-date: 2009-12-17 00:05:30
+date: 2009-12-17 00:05:30 JST
 categories:
 - memo
 ---

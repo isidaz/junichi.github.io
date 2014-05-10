@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 
-date: 2012-04-03 21:04:19
+date: 2012-04-03 21:04:19 JST
 categories:
 - beer
 - diary

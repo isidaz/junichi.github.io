@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: GOOD DESIGN EXPO 2008
-date: 2008-08-23 20:17:04
+date: 2008-08-23 20:17:04 JST
 categories:
 - diary
 tags:

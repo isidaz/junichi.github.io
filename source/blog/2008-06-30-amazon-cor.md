@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: これはない
-date: 2008-06-30 00:32:55
+date: 2008-06-30 00:32:55 JST
 categories:
 - diary
 tags:

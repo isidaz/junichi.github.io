@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: ひかり電話への道
-date: 2008-10-13 02:27:39
+date: 2008-10-13 02:27:39 JST
 categories:
 - pc
 tags:

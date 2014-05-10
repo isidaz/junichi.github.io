@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: お名前.comのキャンペーン
-date: 2010-03-14 00:31:05
+date: 2010-03-14 00:31:05 JST
 categories:
 - diary
 ---

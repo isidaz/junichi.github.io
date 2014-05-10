@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: よなよなリアルエール缶が届きました。
-date: 2012-02-16 21:42:31
+date: 2012-02-16 21:42:31 JST
 categories:
 - beer
 ---

@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Webを徘徊していて苛つくこと
-date: 2008-08-28 20:35:54
+date: 2008-08-28 20:35:54 JST
 categories:
 - diary
 - web

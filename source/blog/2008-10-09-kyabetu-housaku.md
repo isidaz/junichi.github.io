@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: キャベツ豊作？
-date: 2008-10-09 22:50:23
+date: 2008-10-09 22:50:23 JST
 categories:
 - diary
 tags:

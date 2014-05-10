@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: ついにauからもHTCが。スマートフォンとiPhone。
-date: 2008-09-10 19:35:06
+date: 2008-09-10 19:35:06 JST
 categories:
 - mobile
 tags:

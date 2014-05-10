@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 相変わらずな
-date: 2007-11-16 22:34:28
+date: 2007-11-16 22:34:28 JST
 categories: news
 ---
 ドコモとauの半額割引チラシ広告、公取委が警告

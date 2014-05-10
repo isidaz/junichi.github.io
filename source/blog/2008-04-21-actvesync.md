@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: ActiveSyncでエラー 85020006。
-date: 2008-04-21 20:36:25
+date: 2008-04-21 20:36:25 JST
 categories:
 - smartphone
 tags:

@@ -1,6 +1,6 @@
 ---
 title: MFI認定済みLightningケーブルを2本購入
-date: 2013-02-10 21:11:39
+date: 2013-02-10 21:11:39 JST
 categories:
 - diary
 tags:

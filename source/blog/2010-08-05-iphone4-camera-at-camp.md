@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: iPhone4のカメラで撮影､合宿にて｡
-date: 2010-08-05 22:10:30
+date: 2010-08-05 22:10:30 JST
 categories:
 - diary
 ---

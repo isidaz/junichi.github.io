@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 各国キャリアのアクセスポイント
-date: 2008-08-31 20:39:09
+date: 2008-08-31 20:39:09 JST
 categories:
 - mobile
 tags:

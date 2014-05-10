@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: ワットチェッカーを手に入れた
-date: 2008-02-15 16:46:23
+date: 2008-02-15 16:46:23 JST
 categories:
 - pc
 tags:

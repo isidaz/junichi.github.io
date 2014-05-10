@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Kindleで日経電子版を読む。
-date: 2011-10-16 22:16:07
+date: 2011-10-16 22:16:07 JST
 categories:
 - book
 tags:

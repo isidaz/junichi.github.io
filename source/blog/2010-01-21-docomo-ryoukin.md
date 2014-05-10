@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: docomoへの通話料
-date: 2010-01-21 21:33:10
+date: 2010-01-21 21:33:10 JST
 categories:
 - mobile
 tags:

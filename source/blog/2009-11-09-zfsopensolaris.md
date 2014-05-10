@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: ZFS,Opensolaris,samba,raid1,ML115.
-date: 2009-11-09 13:42:23
+date: 2009-11-09 13:42:23 JST
 categories:
 - pc
 tags:

@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Ciscoなんて知りません。
-date: 2008-11-18 00:23:58
+date: 2008-11-18 00:23:58 JST
 categories:
 - pc
 tags:

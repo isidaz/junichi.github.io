@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 携帯から切り離したお財布ケータイ
-date: 2009-04-22 23:14:18
+date: 2009-04-22 23:14:18 JST
 categories:
 - smartphone
 tags:

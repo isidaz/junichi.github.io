@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 我がMacBook Proのバッテリーヘタレ具合
-date: 2011-02-03 18:16:48
+date: 2011-02-03 18:16:48 JST
 categories:
 - Mac OS X
 tags:

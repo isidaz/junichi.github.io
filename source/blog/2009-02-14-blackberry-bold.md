@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: BlackBerry Boldへの道
-date: 2009-02-14 00:30:54
+date: 2009-02-14 00:30:54 JST
 categories:
 - smartphone
 tags:

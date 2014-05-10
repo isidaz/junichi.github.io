@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 良いスポンジを使おう
-date: 2010-12-13 01:07:38
+date: 2010-12-13 01:07:38 JST
 categories:
 - diary
 tags:

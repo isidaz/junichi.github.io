@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 新幹線の足跡
-date: 2008-01-04 23:29:11
+date: 2008-01-04 23:29:11 JST
 categories:
 - pc
 tags:

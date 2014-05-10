@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: FROZEN TIME
-date: 2008-02-21 21:01:54
+date: 2008-02-21 21:01:54 JST
 categories:
 - movie
 tags:

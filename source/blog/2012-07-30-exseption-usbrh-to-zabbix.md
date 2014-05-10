@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 温度が異常な値となる対応。
-date: 2012-07-30 21:32:38
+date: 2012-07-30 21:32:38 JST
 categories:
 - Server
 tags:

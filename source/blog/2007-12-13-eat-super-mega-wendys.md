@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: スーパーメガウェンディーズ食べた
-date: 2007-12-13 20:26:11
+date: 2007-12-13 20:26:11 JST
 categories:
 - diary
 ---

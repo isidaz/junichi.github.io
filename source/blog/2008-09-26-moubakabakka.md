@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: もう馬鹿ばっか
-date: 2008-09-26 19:46:58
+date: 2008-09-26 19:46:58 JST
 categories:
 - diary
 ---

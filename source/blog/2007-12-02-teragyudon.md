@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: テラ牛丼に見るアルバイト
-date: 2007-12-02 19:28:37
+date: 2007-12-02 19:28:37 JST
 categories:
 - news
 ---

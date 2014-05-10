@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Google携帯電話用プラットフォーム「Android」
-date: 2007-11-06 23:32:15
+date: 2007-11-06 23:32:15 JST
 categories: smartphone
 ---
 Google、携帯向けオープンプラットフォーム「Android」発表――33社が参加 - ITmedia +D モバイル

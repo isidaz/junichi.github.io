@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: amazon.co.ukより
-date: 2010-05-22 01:41:10
+date: 2010-05-22 01:41:10 JST
 categories:
 - diary
 tags:

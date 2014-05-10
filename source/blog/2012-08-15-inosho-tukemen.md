@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 麺処 井の庄 つけ麺味玉入り
-date: 2012-08-15 23:07:05
+date: 2012-08-15 23:07:05 JST
 categories:
 - diary
 ---

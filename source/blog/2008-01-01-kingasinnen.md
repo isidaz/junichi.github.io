@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 謹賀新年
-date: 2008-01-01 12:39:52
+date: 2008-01-01 12:39:52 JST
 categories:
 - diary
 ---

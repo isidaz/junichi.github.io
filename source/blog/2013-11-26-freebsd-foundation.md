@@ -1,6 +1,6 @@
 ---
 title: FreeBSDに寄付をした。
-date: 2013-11-26 21:34:00
+date: 2013-11-26 21:34:00 JST
 tags:
 - FreeBSD
 - Foundation

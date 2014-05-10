@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 
-date: 2012-02-12 20:14:41
+date: 2012-02-12 20:14:41 JST
 categories:
 - Mac OS X
 tags:

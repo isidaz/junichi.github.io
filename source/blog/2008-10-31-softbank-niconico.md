@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Softbankでニコニコ動画が見られるように。その裏で。
-date: 2008-10-31 10:45:42
+date: 2008-10-31 10:45:42 JST
 categories:
 - mobile
 tags:

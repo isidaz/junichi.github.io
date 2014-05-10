@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Vyatta 6.1 on Alix 2D3.
-date: 2010-12-03 04:15:28
+date: 2010-12-03 04:15:28 JST
 categories:
 - Linux
 tags:

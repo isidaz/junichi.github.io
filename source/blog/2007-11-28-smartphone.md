@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: スマートフォンに求めるもの
-date: 2007-11-28 21:59:20
+date: 2007-11-28 21:59:20 JST
 categories:
 - smartphone
 ---

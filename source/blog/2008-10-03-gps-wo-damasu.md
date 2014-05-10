@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: GPSを騙す
-date: 2008-10-03 19:15:53
+date: 2008-10-03 19:15:53 JST
 categories:
 - diary
 tags:

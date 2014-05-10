@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: SIGMA DP1
-date: 2008-03-01 08:44:34
+date: 2008-03-01 08:44:34 JST
 categories:
 - camera
 tags:

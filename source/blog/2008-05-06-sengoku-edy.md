@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 千石が
-date: 2008-05-06 10:43:09
+date: 2008-05-06 10:43:09 JST
 categories:
 - diary
 tags:

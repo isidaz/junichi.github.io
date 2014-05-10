@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Vyatta Zone-Based Firewallを設定した。
-date: 2011-04-11 20:52:46
+date: 2011-04-11 20:52:46 JST
 categories:
 - network
 ---

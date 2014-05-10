@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 実家のネット環境が変わっていた。
-date: 2011-01-07 02:31:14
+date: 2011-01-07 02:31:14 JST
 categories:
 - network
 ---

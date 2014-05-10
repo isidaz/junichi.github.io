@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 食、ほりえもん
-date: 2008-09-13 00:52:55
+date: 2008-09-13 00:52:55 JST
 categories:
 - diary
 tags:

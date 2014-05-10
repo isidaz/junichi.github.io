@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: どこでもfon
-date: 2008-10-29 00:18:51
+date: 2008-10-29 00:18:51 JST
 categories:
 - mobile
 tags:

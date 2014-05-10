@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 写真日記
-date: 2008-09-09 00:04:07
+date: 2008-09-09 00:04:07 JST
 categories:
 - diary
 tags:

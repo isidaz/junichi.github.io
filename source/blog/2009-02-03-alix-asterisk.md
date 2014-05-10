@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: AlixでAsterisk
-date: 2009-02-03 23:36:04
+date: 2009-02-03 23:36:04 JST
 categories:
 - Linux
 tags:

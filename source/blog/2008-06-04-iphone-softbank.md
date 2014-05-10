@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 日本にiPhone登場
-date: 2008-06-04 21:54:16
+date: 2008-06-04 21:54:16 JST
 categories:
 - smartphone
 tags:

@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: NTPサーバーを作りたい
-date: 2010-05-14 00:10:45
+date: 2010-05-14 00:10:45 JST
 categories:
 - electronics
 tags:

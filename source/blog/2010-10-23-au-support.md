@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: IS01を購入してお客様サポートに新規登録するには
-date: 2010-10-23 00:18:38
+date: 2010-10-23 00:18:38 JST
 categories:
 - smartphone
 tags:

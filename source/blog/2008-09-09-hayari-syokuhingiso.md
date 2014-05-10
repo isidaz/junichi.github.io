@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 食品偽装が流行っているようです。
-date: 2008-09-09 20:09:56
+date: 2008-09-09 20:09:56 JST
 categories:
 - diary
 ---

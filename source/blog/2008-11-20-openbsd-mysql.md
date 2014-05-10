@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: OpenBSDでMySQL
-date: 2008-11-20 22:50:09
+date: 2008-11-20 22:50:09 JST
 categories:
 - pc
 tags:

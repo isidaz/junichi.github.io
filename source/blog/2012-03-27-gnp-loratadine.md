@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 花粉にロラタジンのパッケージが変わった。
-date: 2012-03-27 21:11:50
+date: 2012-03-27 21:11:50 JST
 categories:
 - diary
 ---

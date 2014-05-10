@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 不正「未然防止には限界」
-date: 2007-12-04 00:55:53
+date: 2007-12-04 00:55:53 JST
 categories:
 - news
 ---

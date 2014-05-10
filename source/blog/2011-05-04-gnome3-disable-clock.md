@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Gnome3の時計を非表示にする
-date: 2011-05-04 08:59:17
+date: 2011-05-04 08:59:17 JST
 categories:
 - pc
 tags:

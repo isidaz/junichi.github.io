@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: MacのFlashを無効に
-date: 2010-11-09 01:39:55
+date: 2010-11-09 01:39:55 JST
 categories:
 - Mac OS X
 tags:

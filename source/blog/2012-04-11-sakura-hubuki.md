@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 
-date: 2012-04-11 20:44:42
+date: 2012-04-11 20:44:42 JST
 categories:
 - diary
 ---

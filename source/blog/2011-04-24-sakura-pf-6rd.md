@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: さくらVPSでpd。6rdに対応。
-date: 2011-04-24 20:04:01
+date: 2011-04-24 20:04:01 JST
 categories:
 - network
 tags:

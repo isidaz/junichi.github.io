@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: グラコログラコログラコログラコロ。
-date: 2007-11-27 22:21:57
+date: 2007-11-27 22:21:57 JST
 categories:
 - diary
 ---

@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Interlinkでパケットロス1
-date: 2010-05-14 03:19:39
+date: 2010-05-14 03:19:39 JST
 categories:
 - network
 tags:

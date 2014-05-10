@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 落雷実験
-date: 2010-06-28 00:30:26
+date: 2010-06-28 00:30:26 JST
 categories:
 - electronics
 ---

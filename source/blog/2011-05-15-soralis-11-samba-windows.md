@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Soralis 11のsambaにWindows 7から接続できな
-date: 2011-05-15 11:06:40
+date: 2011-05-15 11:06:40 JST
 categories:
 - pc
 tags:

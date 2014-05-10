@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 佐久間ダムへ行ってきた
-date: 2010-08-20 23:23:44
+date: 2010-08-20 23:23:44 JST
 categories:
 - diary
 tags:

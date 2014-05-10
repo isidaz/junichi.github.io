@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 船橋 大新庵
-date: 2010-06-14 00:19:04
+date: 2010-06-14 00:19:04 JST
 categories:
 - binar
 ---

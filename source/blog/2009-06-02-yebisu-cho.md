@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: ヱビス超長期熟成
-date: 2009-06-02 23:29:09
+date: 2009-06-02 23:29:09 JST
 categories:
 - beer
 tags:

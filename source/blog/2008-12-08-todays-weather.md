@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 今日のお天気。
-date: 2008-12-08 00:09:27
+date: 2008-12-08 00:09:27 JST
 categories:
 - diary
 ---

@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 大学生とiPhone
-date: 2010-02-10 01:57:51
+date: 2010-02-10 01:57:51 JST
 categories:
 - mobile
 - smartphone

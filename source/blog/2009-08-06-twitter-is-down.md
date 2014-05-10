@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: twitter is down
-date: 2009-08-06 23:46:03
+date: 2009-08-06 23:46:03 JST
 categories:
 - diary
 tags:

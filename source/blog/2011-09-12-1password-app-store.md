@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 1PasswordをApp Storeで買い直した。
-date: 2011-09-12 22:46:54
+date: 2011-09-12 22:46:54 JST
 categories:
 - Mac OS X
 tags:

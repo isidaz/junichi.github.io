@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Mac向けBlackBerry Desktop Software v2.0.0.64が登場
-date: 2010-12-16 23:35:14
+date: 2010-12-16 23:35:14 JST
 categories:
 - BlackBerry
 tags:

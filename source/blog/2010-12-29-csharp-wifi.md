@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: C#でRSSIとESSIDとBSSIDを取得する
-date: 2010-12-29 02:47:39
+date: 2010-12-29 02:47:39 JST
 categories:
 - Programing
 tags:

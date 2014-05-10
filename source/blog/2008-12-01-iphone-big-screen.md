@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: iPhoneとその他大画面系スマートフォン
-date: 2008-12-01 23:01:35
+date: 2008-12-01 23:01:35 JST
 categories:
 - smartphone
 tags:

@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: BB Boldアップデート。
-date: 2009-06-02 22:19:06
+date: 2009-06-02 22:19:06 JST
 categories:
 - smartphone
 tags:

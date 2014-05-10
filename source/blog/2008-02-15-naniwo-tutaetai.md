@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 何を伝えたいのだろうこの番組。
-date: 2008-02-15 21:51:57
+date: 2008-02-15 21:51:57 JST
 categories:
 - diary
 ---

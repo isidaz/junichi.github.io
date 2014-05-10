@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Softbank一括設定での設定内容
-date: 2011-04-18 08:12:16
+date: 2011-04-18 08:12:16 JST
 categories:
 - smartphone
 tags:

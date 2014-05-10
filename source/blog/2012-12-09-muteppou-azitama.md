@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 無鉄砲 豚骨味玉
-date: 2012-12-09 22:13:26
+date: 2012-12-09 22:13:26 JST
 categories:
 - diary
 tags:

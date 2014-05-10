@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: iPhoneのプラン変更。2年契約(キャンペーン)更新月につき。
-date: 2011-08-30 21:57:39
+date: 2011-08-30 21:57:39 JST
 categories:
 - diary
 tags:

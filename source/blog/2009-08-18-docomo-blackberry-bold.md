@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Docomo, BlackBerry Bold.
-date: 2009-08-18 23:41:10
+date: 2009-08-18 23:41:10 JST
 categories:
 - smartphone
 tags:

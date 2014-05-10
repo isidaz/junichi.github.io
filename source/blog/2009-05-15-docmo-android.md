@@ -1,7 +1,7 @@
 ---
 status: publish
 title: Docomo、Android正式発表へ
-date: 2009-05-15 23:33:47
+date: 2009-05-15 23:33:47 JST
 categories:
 - smartphone
 tags:

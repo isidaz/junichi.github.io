@@ -1,7 +1,7 @@
 ---
 status: publish
 title: 郵便再配達ご丁寧にも。
-date: 2009-01-31 01:00:10
+date: 2009-01-31 01:00:10 JST
 categories:
 - diary
 ---

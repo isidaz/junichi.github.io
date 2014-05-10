@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: iPhoneを買えない理由。
-date: 2009-01-23 21:49:39
+date: 2009-01-23 21:49:39 JST
 categories:
 - smartphone
 tags:

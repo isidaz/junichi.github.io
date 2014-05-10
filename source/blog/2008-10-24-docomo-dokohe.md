@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: ドコモどこにゆく
-date: 2008-10-24 02:50:53
+date: 2008-10-24 02:50:53 JST
 categories:
 - mobile
 tags:

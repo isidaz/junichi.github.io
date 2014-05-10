@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 当選のお知らせ。富士総合火力演習。
-date: 2008-07-10 16:47:38
+date: 2008-07-10 16:47:38 JST
 categories:
 - diary
 tags:

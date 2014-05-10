@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 水道橋あたりを歩いた。
-date: 2010-04-01 23:29:36
+date: 2010-04-01 23:29:36 JST
 categories:
 - diary
 ---

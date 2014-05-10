@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: VMware Fusion 3買った。アカデミック価格で。
-date: 2010-09-09 01:38:30
+date: 2010-09-09 01:38:30 JST
 categories:
 - diary
 tags:

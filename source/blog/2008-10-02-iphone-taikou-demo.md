@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: iPhone対抗？でも
-date: 2008-10-02 20:49:10
+date: 2008-10-02 20:49:10 JST
 categories:
 - mobile
 tags:

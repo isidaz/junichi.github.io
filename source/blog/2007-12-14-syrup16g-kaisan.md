@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: syrup16g解散
-date: 2007-12-14 13:23:53
+date: 2007-12-14 13:23:53 JST
 categories:
 - music
 ---

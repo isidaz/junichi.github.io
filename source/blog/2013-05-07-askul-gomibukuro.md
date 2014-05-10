@@ -1,6 +1,6 @@
 ---
 title: アスクルのゴミ袋
-date: 2013-05-07 22:10:00
+date: 2013-05-07 22:10:00 JST
 categories:
 - diary
 tags:

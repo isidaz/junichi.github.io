@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 今年もあとすこし
-date: 2007-12-31 17:15:30
+date: 2007-12-31 17:15:30 JST
 categories:
 - diary
 ---

@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 包丁を買いました。
-date: 2009-01-09 21:02:24
+date: 2009-01-09 21:02:24 JST
 categories:
 - cooking
 tags:

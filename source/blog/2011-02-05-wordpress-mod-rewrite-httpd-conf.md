@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: WordPressのmod_rewriteをhttpd.confに書く。
-date: 2011-02-05 00:00:26
+date: 2011-02-05 00:00:26 JST
 categories:
 - Server
 tags:

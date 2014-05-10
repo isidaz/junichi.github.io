@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Nokia日本撤退
-date: 2008-11-27 18:14:56
+date: 2008-11-27 18:14:56 JST
 categories:
 - smartphone
 tags:

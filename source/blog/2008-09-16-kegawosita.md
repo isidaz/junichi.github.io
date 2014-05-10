@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: けがをした
-date: 2008-09-16 21:34:29
+date: 2008-09-16 21:34:29 JST
 categories:
 - diary
 ---

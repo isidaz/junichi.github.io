@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: b-mobileSIM動作報告
-date: 2010-04-16 23:28:56
+date: 2010-04-16 23:28:56 JST
 categories:
 - smartphone
 tags:

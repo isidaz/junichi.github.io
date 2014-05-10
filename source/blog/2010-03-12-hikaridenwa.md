@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: ひかり電話プラン変更がわかりにくい。
-date: 2010-03-12 02:18:16
+date: 2010-03-12 02:18:16 JST
 categories:
 - diary
 tags:

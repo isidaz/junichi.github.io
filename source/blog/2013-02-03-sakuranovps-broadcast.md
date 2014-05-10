@@ -1,6 +1,6 @@
 ---
 title: さくらのVPSで飛んでくるブロードキャストパケット
-date: 2013-02-03 10:31:00
+date: 2013-02-03 10:31:00 JST
 categories:
 - diary
 tags:

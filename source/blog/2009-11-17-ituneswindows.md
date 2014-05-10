@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: iTunes、Windowsにおける文字化け
-date: 2009-11-17 00:25:01
+date: 2009-11-17 00:25:01 JST
 categories:
 - diary
 tags:

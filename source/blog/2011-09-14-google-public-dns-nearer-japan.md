@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Google Public DNSが日本から近くなった。
-date: 2011-09-14 21:13:36
+date: 2011-09-14 21:13:36 JST
 categories:
 - network
 tags:

@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 第63回津田沼祭にて
-date: 2012-11-25 21:04:18
+date: 2012-11-25 21:04:18 JST
 categories:
 - diary
 tags:

@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 再インストールしたよ
-date: 2008-10-04 15:57:38
+date: 2008-10-04 15:57:38 JST
 categories:
 - diary
 - pc

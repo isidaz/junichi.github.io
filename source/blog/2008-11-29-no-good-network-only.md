@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 今更、しかもNGN限定なんてひどいな
-date: 2008-11-29 22:43:04
+date: 2008-11-29 22:43:04 JST
 categories:
 - pc
 tags:

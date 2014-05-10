@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 通院内容
-date: 2008-09-24 23:56:26
+date: 2008-09-24 23:56:26 JST
 categories:
 - diary
 ---

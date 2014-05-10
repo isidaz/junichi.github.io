@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: イーモバイル新端末!
-date: 2008-02-25 18:39:34
+date: 2008-02-25 18:39:34 JST
 categories:
 - smartphone
 tags:

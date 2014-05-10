@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 台風、接近中？
-date: 2008-09-29 22:47:28
+date: 2008-09-29 22:47:28 JST
 categories:
 - diary
 - mobile

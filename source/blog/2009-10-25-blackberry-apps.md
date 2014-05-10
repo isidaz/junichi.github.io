@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: BlackBerryに入れたアプリたち
-date: 2009-10-25 14:16:27
+date: 2009-10-25 14:16:27 JST
 categories:
 - smartphone
 tags:

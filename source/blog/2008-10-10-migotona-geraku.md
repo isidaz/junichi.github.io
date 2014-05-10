@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: 見事な下落
-date: 2008-10-10 22:54:45
+date: 2008-10-10 22:54:45 JST
 categories:
 - diary
 ---

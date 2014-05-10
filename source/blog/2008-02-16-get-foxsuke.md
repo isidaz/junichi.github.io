@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: Firefoxを紹介してフォクすけぬいぐるみがもらえる！
-date: 2008-02-16 23:46:02
+date: 2008-02-16 23:46:02 JST
 categories:
 - pc
 tags:

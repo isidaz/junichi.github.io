@@ -2,7 +2,7 @@
 status: publish
 published: true
 title: ついに届いた。E71。
-date: 2008-10-05 15:09:05
+date: 2008-10-05 15:09:05 JST
 categories:
 - diary
 - mobile
