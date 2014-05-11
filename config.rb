@@ -4,6 +4,11 @@
 
 Time.zone = "Asia/Tokyo"
 
+set :host, "http://moin.jp"
+set :site_title, "moin.jp"
+set :blog_title, "石田順一の日記"
+set :blog_description, "いろいろ。"
+
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   blog.prefix = "blog"
@@ -107,6 +112,7 @@ end
 
 activate :deploy do |deploy|
   deploy.build_before = true
-  deploy.method = :git
-  deploy.branch = 'master'
+  deploy.method = :sftp
+  deploy.host = "yoichi.i4d.jp"
+  deploy.path = "/usr/jails/www1/data/www/i4d.jp/public_html/"
 end
